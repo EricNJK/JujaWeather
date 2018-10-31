@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Juja Weather</string>
+    <string name="action_update">Refresh</string>
+    <string name="action_exit">Exit</string>
+    <string name="data_url">http://api.openweathermap.org/data/2.5/weather?q=Juja,KE&amp;APPID=d4ce32dd02df896572fea11c0bb68925</string>
+    <string name="juja_kenya">Juja, Kenya</string>
+    <string name="hval">hval %</string>
+    <string name="mbar">### mbar</string>
+    <string name="_25">25</string>
+    <string name="description_here">Description here</string>
+    <string name="u00b0c">°C</string>
+    <string name="air_pressure">Air Pressure</string>
+    <string name="humidity">Humidity</string>
+    <string name="source_openweathermap">source: OpenWeatherMap</string>
+    <string name="visibility">Visibility</string>
+    <string name="metres">## metres</string>
+    <string name="temperature_range">Temperature Range</string>
+    <string name="min_u00b0c_t">min °C</string>
+    <string name="max_u00b0c">max °C</string>
+    <string name="wind_speed">Wind Speed</string>
+    <string name="kph">## kph</string>
+    <string name="u00b0">## °</string>
+    <string name="cloud_cover">Cloud Cover</string>
+    <string name="per">## %</string>
+</resources>

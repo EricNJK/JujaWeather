@@ -1,0 +1,42 @@
+{
+  "coord": {
+    "lon": 37.01,
+    "lat": -1.1
+  },
+  "weather": [
+    {
+      "id": 803,
+      "main": "Clouds",
+      "description": "stock data!",
+      "icon": "04d"
+    }
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 273.15,
+    "pressure": 1022,
+    "humidity": 68,
+    "temp_min": 293.15,
+    "temp_max": 295.15
+  },
+  "visibility": 10000,
+  "wind": {
+    "speed": 5.1,
+    "deg": 20
+  },
+  "clouds": {
+    "all": 75
+  },
+  "dt": 1540800000,
+  "sys": {
+    "type": 1,
+    "id": 6429,
+    "message": 0.0037,
+    "country": "KE",
+    "sunrise": 1540782669,
+    "sunset": 1540826406
+  },
+  "id": 179330,
+  "name": "Juja",
+  "cod": 200
+}
